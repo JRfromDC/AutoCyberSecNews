@@ -1,0 +1,17 @@
+[
+  {"name": "CSIRT.sk", "url": "https://csirt.sk/feed/"},
+  {"name": "Root.cz Bezpečnosť", "url": "https://www.root.cz/rss/bezpecnost"},
+  {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/"},
+  {"name": "Microsoft Security Blog", "url": "https://www.microsoft.com/security/blog/feed/"},
+  {"name": "SecurityWeek", "url": "https://feeds.feedburner.com/securityweek"},
+  {"name": "The Record", "url": "https://therecord.media/feed"},
+  {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
+  {"name": "Dark Reading", "url": "https://www.darkreading.com/rss/all.xml"},
+  {"name": "The Hacker News", "url": "https://thehackernews.com/feeds/posts/default"},
+  {"name": "Wired Security", "url": "https://www.wired.com/feed/rss"},
+  {"name": "ESET WeLiveSecurity", "url": "https://www.welivesecurity.com/en/feed/"},
+  {"name": "Trend Micro", "url": "http://localhost:80/?action=add&url=https://www.trendmicro.com/vinfo/gb/security/news"},
+  {"name": "CyberNews", "url": "https://cybernews.com/feed/"},
+  {"name": "Security Affairs", "url": "https://securityaffairs.com/feed/"},
+  {"name": "Reuters Cybersecurity", "url": "https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml&url=https://www.reuters.com/technology/cybersecurity/"}
+]
