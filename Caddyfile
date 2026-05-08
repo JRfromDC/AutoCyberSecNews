@@ -1,0 +1,5 @@
+tvoj-domain.sk {
+    reverse_proxy /streamlit localhost:8501
+    reverse_proxy /n8n localhost:5678
+    reverse_proxy /rss localhost:80
+}
